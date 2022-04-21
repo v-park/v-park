@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @v-park
-- 👀 I’m interested in traveling and reading. I've travelled to over 70 cities around the world and read 23 books in 2021
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to network with programming beginners
 
