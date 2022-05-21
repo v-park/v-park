@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @v-park
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning HTML, CSS and JS
 - 💞️ I’m looking to network with developers from all over the world
 
 <!---
